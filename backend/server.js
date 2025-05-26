@@ -1,12 +1,14 @@
 require('dotenv').config()
 const express = require("express");
 const app = express();
+const cors = require('cors');
+app.use(cors());
 app.use(express.json());
 const logger = require('./utils/logger');
 const fs = require('fs');
 const path = require('path');
 const morgan = require('morgan');
-const connectDB = require("./config/db");
+const connectDB = require("./config/db"); 
 const userRoutes = require('./routes/userRoutes');
 connectDB();
 
