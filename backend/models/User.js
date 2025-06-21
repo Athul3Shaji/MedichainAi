@@ -16,8 +16,8 @@ const userSchema = new mongoose.Schema({
     trim: true,
   },
   profileImage: {
-    type: String, // Can be a URL or a local path
-    default: '',  // Optional
+    type: String,
+    default: null,  // Changed to null to indicate no image
   },
   password: {
     type: String,

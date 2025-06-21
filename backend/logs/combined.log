@@ -7,3 +7,310 @@
 [2025-05-26 15:33:41] INFO: User JIni V Joy logged in
 [2025-05-26 16:47:21] INFO: User athul logged in
 [2025-05-26 16:51:20] INFO: User athul shaji fetched
+[2025-05-27 13:51:05] INFO: User athul shaji logged in
+[2025-05-27 13:51:34] INFO: User athul shaji logged in
+[2025-05-27 14:05:24] INFO: User athul shaji fetched
+[2025-05-27 14:05:33] INFO: User athul shaji fetched
+[2025-05-27 14:06:42] INFO: Users fetched
+[2025-05-27 14:21:00] INFO: User athul shaji logged in
+[2025-05-27 14:22:50] INFO: User athul shaji logged in
+[2025-05-27 14:28:48] INFO: User athul shaji fetched
+[2025-05-27 14:33:48] INFO: User athul shaji fetched
+[2025-05-27 14:33:48] INFO: User athul shaji fetched
+[2025-05-27 14:34:44] INFO: User athul shaji fetched
+[2025-05-27 14:34:44] INFO: User athul shaji fetched
+[2025-05-27 14:35:28] INFO: User athul shaji fetched
+[2025-05-27 14:35:28] INFO: User athul shaji fetched
+[2025-05-27 14:37:28] INFO: User athul shaji fetched
+[2025-05-27 14:37:28] INFO: User athul shaji fetched
+[2025-05-27 14:37:32] INFO: User athul shaji fetched
+[2025-05-27 14:37:32] INFO: User athul shaji fetched
+[2025-05-27 14:37:51] INFO: User athul shaji fetched
+[2025-05-27 14:37:51] INFO: User athul shaji fetched
+[2025-05-27 14:38:19] INFO: User athul shaji fetched
+[2025-05-27 14:38:19] INFO: User athul shaji fetched
+[2025-05-27 14:38:42] INFO: User athul shaji fetched
+[2025-05-27 14:38:42] INFO: User athul shaji fetched
+[2025-05-27 14:38:45] INFO: User athul shaji fetched
+[2025-05-27 14:38:45] INFO: User athul shaji fetched
+[2025-05-27 14:45:59] INFO: User athul shaji fetched
+[2025-05-27 14:45:59] INFO: User athul shaji fetched
+[2025-05-27 14:49:29] INFO: User athul shaji fetched
+[2025-05-27 14:49:29] INFO: User athul shaji fetched
+[2025-05-27 14:49:50] INFO: User athul shaji fetched
+[2025-05-27 14:49:50] INFO: User athul shaji fetched
+[2025-05-27 15:12:36] INFO: User minu registered
+[2025-05-27 15:12:48] INFO: Users fetched
+[2025-05-27 15:33:43] ERROR: Update User Error: email is not defined
+[2025-05-27 15:34:13] INFO: User athul shaji fetched
+[2025-05-27 15:34:48] ERROR: Update User Error: email is not defined
+[2025-05-27 15:35:11] ERROR: Update User Error: profileImage is not defined
+[2025-05-27 15:37:02] ERROR: Update User Error: Cannot access 'user' before initialization
+[2025-05-27 15:37:49] ERROR: Update User Error: Cannot access 'user' before initialization
+[2025-05-27 15:38:51] INFO: User athul shaji updated
+[2025-05-27 15:40:20] INFO: User athul shaji updated
+[2025-05-27 15:40:40] INFO: Users fetched
+[2025-05-27 15:41:44] INFO: User minu updated
+[2025-05-27 15:41:54] INFO: Users fetched
+[2025-05-27 15:43:19] INFO: User athul shaji fetched
+[2025-05-27 15:43:19] INFO: User athul shaji fetched
+[2025-05-27 15:45:18] INFO: User athul shaji fetched
+[2025-05-27 15:45:18] INFO: User athul shaji fetched
+[2025-05-27 15:46:56] INFO: User athul shaji fetched
+[2025-05-27 15:46:56] INFO: User athul shaji fetched
+[2025-05-27 15:47:02] INFO: User athul shaji fetched
+[2025-05-27 15:47:02] INFO: User athul shaji fetched
+[2025-05-27 16:04:42] INFO: User athul shaji fetched
+[2025-05-27 16:07:19] INFO: User athul shaji fetched
+[2025-05-27 16:07:19] INFO: User athul shaji fetched
+[2025-05-27 16:07:28] INFO: User athul shaji updated
+[2025-05-27 16:07:31] INFO: User athul manu fetched
+[2025-05-27 16:07:44] INFO: User athul manu updated
+[2025-05-27 16:07:46] INFO: User athul manu fetched
+[2025-05-27 16:08:51] INFO: User athul manu fetched
+[2025-05-27 16:08:51] INFO: User athul manu fetched
+[2025-05-27 16:10:02] INFO: User athul manu fetched
+[2025-05-27 16:10:02] INFO: User athul manu fetched
+[2025-05-27 16:10:27] INFO: User athul manu updated
+[2025-05-27 16:10:29] INFO: User athul manu fetched
+[2025-05-27 16:11:49] INFO: User athul manu fetched
+[2025-05-27 16:11:49] INFO: User athul manu fetched
+[2025-05-27 16:44:56] INFO: User minu logged in
+[2025-05-27 16:44:59] INFO: User minu fetched
+[2025-05-27 16:44:59] INFO: User minu fetched
+[2025-05-27 16:45:11] INFO: User minu updated
+[2025-05-27 16:45:13] INFO: User minu fetched
+[2025-05-30 13:02:56] INFO: User athul manu logged in
+[2025-05-30 13:03:22] INFO: User athul manu logged in
+[2025-05-30 13:03:25] INFO: User athul manu fetched
+[2025-05-30 13:03:25] INFO: User athul manu fetched
+[2025-05-30 13:03:52] INFO: User athul manu fetched
+[2025-05-30 13:03:52] INFO: User athul manu fetched
+[2025-05-30 13:21:49] INFO: User athul manu logged in
+[2025-05-30 13:22:19] INFO: User athul manu logged in
+[2025-05-30 13:43:54] INFO: User athul manu fetched
+[2025-05-30 13:43:55] INFO: User athul manu fetched
+[2025-05-30 13:44:09] INFO: User athul manu fetched
+[2025-05-30 13:44:09] INFO: User athul manu fetched
+[2025-05-30 13:44:38] INFO: User athul manu fetched
+[2025-05-30 13:44:38] INFO: User athul manu fetched
+[2025-05-30 13:45:35] INFO: User athul manu fetched
+[2025-05-30 13:45:35] INFO: User athul manu fetched
+[2025-05-30 13:46:35] INFO: User athul manu logged in
+[2025-05-30 13:46:39] INFO: User athul manu fetched
+[2025-05-30 13:46:40] INFO: User athul manu fetched
+[2025-05-30 13:46:43] INFO: User athul manu fetched
+[2025-05-30 13:46:44] INFO: User athul manu fetched
+[2025-05-30 13:46:49] INFO: User athul manu fetched
+[2025-05-30 13:46:49] INFO: User athul manu fetched
+[2025-05-30 13:49:48] INFO: User athul manu fetched
+[2025-05-30 13:49:48] INFO: User athul manu fetched
+[2025-05-30 13:51:53] INFO: User athul manu fetched
+[2025-05-30 13:51:53] INFO: User athul manu fetched
+[2025-05-30 13:53:48] INFO: User athul manu fetched
+[2025-05-30 13:53:48] INFO: User athul manu fetched
+[2025-05-30 13:56:28] INFO: User athul manu fetched
+[2025-05-30 13:56:28] INFO: User athul manu fetched
+[2025-05-30 13:57:14] INFO: User athul manu fetched
+[2025-05-30 13:57:14] INFO: User athul manu fetched
+[2025-05-30 13:58:24] INFO: User athul manu fetched
+[2025-05-30 13:58:24] INFO: User athul manu fetched
+[2025-05-30 13:58:47] INFO: User athul manu fetched
+[2025-05-30 13:58:47] INFO: User athul manu fetched
+[2025-05-30 13:59:49] INFO: User athul manu fetched
+[2025-05-30 13:59:49] INFO: User athul manu fetched
+[2025-05-30 14:01:12] INFO: User athul manu fetched
+[2025-05-30 14:01:58] INFO: User athul manu updated
+[2025-05-30 14:02:03] INFO: User athul manu fetched
+[2025-05-30 14:02:03] INFO: User athul manu fetched
+[2025-05-30 14:03:29] INFO: Users fetched
+[2025-05-30 14:57:08] INFO: User athul manu fetched
+[2025-05-30 14:57:18] INFO: User athul manu fetched
+[2025-05-30 14:57:43] INFO: User athul manu fetched
+[2025-05-30 14:57:43] INFO: User athul manu fetched
+[2025-05-30 14:58:01] INFO: User athul manu updated
+[2025-05-30 14:58:05] INFO: User athul ff fetched
+[2025-05-30 14:58:05] INFO: User athul ff fetched
+[2025-05-30 14:58:14] INFO: User athul ff updated
+[2025-05-30 14:58:22] INFO: User athul ff updated
+[2025-05-30 15:01:17] INFO: User athul shaji fetched
+[2025-05-30 15:01:17] INFO: User athul shaji fetched
+[2025-05-30 15:02:46] INFO: User athul shaji fetched
+[2025-05-30 15:02:46] INFO: User athul shaji fetched
+[2025-05-30 15:03:02] INFO: User athul shaji fetched
+[2025-05-30 15:03:02] INFO: User athul shaji fetched
+[2025-05-30 15:04:22] INFO: User athul shaji fetched
+[2025-05-30 15:04:22] INFO: User athul shaji fetched
+[2025-05-30 15:04:39] INFO: User athul shaji fetched
+[2025-05-30 15:04:39] INFO: User athul shaji fetched
+[2025-05-30 15:06:38] INFO: User athul shaji logged in
+[2025-05-30 15:20:30] INFO: User athul shaji logged in
+[2025-05-30 15:22:41] INFO: User athul shaji fetched
+[2025-05-30 15:22:41] INFO: User athul shaji fetched
+[2025-05-30 15:23:33] INFO: User athul shaji updated
+[2025-05-30 15:23:48] INFO: User athul shaji fetched
+[2025-05-30 15:23:48] INFO: User athul shaji fetched
+[2025-05-30 15:26:46] INFO: User athul shaji updated
+[2025-05-30 15:27:00] INFO: User athul shaji fetched
+[2025-05-30 15:27:00] INFO: User athul shaji fetched
+[2025-05-30 15:28:48] INFO: User athul shaji fetched
+[2025-05-30 15:28:48] INFO: User athul shaji fetched
+[2025-05-30 15:29:03] INFO: User athul shaji updated
+[2025-05-30 15:29:07] INFO: User athul shaji fetched
+[2025-05-30 15:29:07] INFO: User athul shaji fetched
+[2025-05-30 15:31:46] INFO: User minu logged in
+[2025-05-30 15:32:06] INFO: User minu logged in
+[2025-05-30 15:32:09] INFO: User minu fetched
+[2025-05-30 15:32:09] INFO: User minu fetched
+[2025-05-30 15:32:34] INFO: User minu fetched
+[2025-05-30 15:32:34] INFO: User minu fetched
+[2025-05-30 15:48:17] INFO: User minu fetched
+[2025-05-30 15:48:17] INFO: User minu fetched
+[2025-06-03 14:28:34] INFO: User athul shaji logged in
+[2025-06-03 14:29:39] INFO: User athul shaji fetched
+[2025-06-03 14:29:39] INFO: User athul shaji fetched
+[2025-06-03 14:29:49] INFO: User athul shaji fetched
+[2025-06-03 14:29:49] INFO: User athul shaji fetched
+[2025-06-03 14:41:28] INFO: User athul shaji logged in
+[2025-06-03 14:43:05] INFO: User athul shaji logged in
+[2025-06-03 14:44:03] INFO: User minu logged in
+[2025-06-03 14:50:29] INFO: User athul shaji logged in
+[2025-06-13 13:04:11] INFO: Users fetched
+[2025-06-13 13:08:26] INFO: User athul shaj fetched
+[2025-06-13 13:08:26] INFO: User athul shaj fetched
+[2025-06-13 13:10:29] INFO: User Mask registered
+[2025-06-13 13:10:33] INFO: Users fetched
+[2025-06-13 13:11:13] INFO: User Mask updated
+[2025-06-13 13:12:20] INFO: User Mask logged in
+[2025-06-13 13:12:22] INFO: User Mask fetched
+[2025-06-13 13:12:22] INFO: User Mask fetched
+[2025-06-13 13:14:01] INFO: Users fetched
+[2025-06-13 13:45:54] INFO: Users fetched
+[2025-06-13 14:01:45] INFO: User troll registered
+[2025-06-13 14:01:49] INFO: Users fetched
+[2025-06-13 14:02:33] INFO: User troll updated
+[2025-06-13 14:04:54] INFO: User troll updated
+[2025-06-13 14:05:36] INFO: User troll logged in
+[2025-06-13 14:05:39] INFO: User troll fetched
+[2025-06-13 14:05:39] INFO: User troll fetched
+[2025-06-13 14:06:51] INFO: User troll updated
+[2025-06-13 14:06:56] INFO: User troll me fetched
+[2025-06-13 14:06:56] INFO: User troll me fetched
+[2025-06-13 14:39:37] INFO: Users fetched
+[2025-06-13 14:52:00] INFO: Users fetched
+[2025-06-13 14:52:05] INFO: User troll registered
+[2025-06-13 14:52:12] INFO: Users fetched
+[2025-06-13 14:52:27] INFO: User troll updated
+[2025-06-13 14:52:42] INFO: User troll updated
+[2025-06-13 14:54:06] INFO: User troll updated
+[2025-06-13 14:55:35] INFO: User troll updated
+[2025-06-13 14:58:21] INFO: User troll updated
+[2025-06-13 14:58:48] INFO: User troll updated
+[2025-06-13 14:59:01] INFO: User troll updated
+[2025-06-13 15:12:18] INFO: User troll logged in
+[2025-06-13 15:12:24] INFO: User troll fetched
+[2025-06-13 15:12:24] INFO: User troll fetched
+[2025-06-13 15:14:51] INFO: User troll updated
+[2025-06-13 15:14:58] INFO: User troll fetched
+[2025-06-13 15:14:58] INFO: User troll fetched
+[2025-06-16 13:17:58] INFO: User troll fetched
+[2025-06-16 13:17:58] INFO: User troll fetched
+[2025-06-16 13:34:33] INFO: User troll logged in
+[2025-06-16 13:48:17] INFO: User troll fetched
+[2025-06-16 13:48:17] INFO: User troll fetched
+[2025-06-16 14:14:57] INFO: User troll fetched
+[2025-06-16 14:14:57] INFO: User troll fetched
+[2025-06-16 14:49:16] INFO: User troll fetched
+[2025-06-16 14:49:16] INFO: User troll fetched
+[2025-06-16 14:49:37] INFO: User troll logged in
+[2025-06-16 14:49:57] INFO: User troll fetched
+[2025-06-16 14:49:57] INFO: User troll fetched
+[2025-06-16 14:56:26] INFO: User troll logged in
+[2025-06-16 14:58:20] INFO: User troll logged in
+[2025-06-16 14:58:23] INFO: User troll fetched
+[2025-06-16 14:58:23] INFO: User troll fetched
+[2025-06-16 14:58:30] INFO: User troll fetched
+[2025-06-16 14:58:30] INFO: User troll fetched
+[2025-06-16 14:58:37] INFO: User troll fetched
+[2025-06-16 14:58:37] INFO: User troll fetched
+[2025-06-16 14:58:40] INFO: User troll fetched
+[2025-06-16 14:58:40] INFO: User troll fetched
+[2025-06-16 15:07:48] INFO: User troll logged in
+[2025-06-16 15:59:13] INFO: User troll logged in
+[2025-06-16 15:59:24] INFO: User troll fetched
+[2025-06-16 15:59:24] INFO: User troll fetched
+[2025-06-16 16:10:59] ERROR: Login Error: getaddrinfo EAI_AGAIN ac-hzp74wt-shard-00-02.7opqzze.mongodb.net
+[2025-06-16 16:12:19] INFO: User troll logged in
+[2025-06-18 16:36:23] INFO: User troll logged in
+[2025-06-18 16:47:30] INFO: User troll fetched
+[2025-06-18 16:47:30] INFO: User troll fetched
+[2025-06-18 17:37:44] INFO: User troll logged in
+[2025-06-20 17:17:47] INFO: User troll logged in
+[2025-06-20 17:18:25] INFO: User troll logged in
+[2025-06-21 10:10:43] INFO: User troll logged in
+[2025-06-21 10:44:30] INFO: [AI Service] Extracting text for claim_id: 68563fb637c599f1288cfdac
+[2025-06-21 10:45:02] INFO: [DB] Saved extracted text for claim_id: 68563fb637c599f1288cfdac, record ID: 68563fd637c599f1288cfdae
+[2025-06-21 10:45:02] INFO: [AI Service] Summarizing extracted text for claim_id: 68563fb637c599f1288cfdac
+[2025-06-21 10:46:25] INFO: [DB] Updated summary for claim_id: 68563fb637c599f1288cfdac
+[2025-06-21 11:08:55] INFO: [AI Service] Extracting text for claim_id: 6856456f0064760de270449d
+[2025-06-21 11:09:16] INFO: [DB] Saved extracted text for claim_id: 6856456f0064760de270449d, record ID: 685645840064760de270449f
+[2025-06-21 11:09:16] INFO: [AI Service] Summarizing extracted text for claim_id: 6856456f0064760de270449d
+[2025-06-21 11:10:24] INFO: [DB] Updated summary for claim_id: 6856456f0064760de270449d
+[2025-06-21 11:13:40] INFO: [AI Service] Initiating text extraction for claim_id: 6856468cd56e4ac0994737e3
+[2025-06-21 11:14:03] INFO: [DB] Stored extracted text. Claim ID: 6856468cd56e4ac0994737e3, Record ID: 685646a3d56e4ac0994737e5
+[2025-06-21 11:14:03] INFO: [AI Service] Summarizing text for claim_id: 6856468cd56e4ac0994737e3
+[2025-06-21 11:15:15] INFO: [DB] Summary stored for claim_id: 6856468cd56e4ac0994737e3
+[2025-06-21 11:15:15] INFO: [AI Service] Classifying summary text for claim_id: 6856468cd56e4ac0994737e3
+[2025-06-21 11:15:15] ERROR: [AI Pipeline] Error in processing claim_id: 6856468cd56e4ac0994737e3 - Cannot create property 'updatedAt' on string 'Legit'
+[2025-06-21 11:17:02] INFO: [AI Service] Initiating text extraction for claim_id: 68564756aea4c835d2871e3c
+[2025-06-21 11:17:25] INFO: [DB] Stored extracted text. Claim ID: 68564756aea4c835d2871e3c, Record ID: 6856476daea4c835d2871e3e
+[2025-06-21 11:17:25] INFO: [AI Service] Summarizing text for claim_id: 68564756aea4c835d2871e3c
+[2025-06-21 11:18:33] INFO: [DB] Summary stored for claim_id: 68564756aea4c835d2871e3c
+[2025-06-21 11:18:33] INFO: [AI Service] Classifying summary text for claim_id: 68564756aea4c835d2871e3c
+[2025-06-21 11:18:33] INFO: [DB] Classification data stored for claim_id: 68564756aea4c835d2871e3c
+[2025-06-21 13:36:14] INFO: [AI Service] Initiating text extraction for claim_id: 685667f61ab411b207cfe312
+[2025-06-21 13:36:43] INFO: [DB] Stored extracted text. Claim ID: 685667f61ab411b207cfe312, Record ID: 685668131ab411b207cfe314
+[2025-06-21 13:36:43] INFO: [AI Service] Summarizing text for claim_id: 685667f61ab411b207cfe312
+[2025-06-21 13:38:13] INFO: [DB] Summary stored for claim_id: 685667f61ab411b207cfe312
+[2025-06-21 13:38:13] INFO: [AI Service] Classifying summary text for claim_id: 685667f61ab411b207cfe312
+[2025-06-21 13:38:14] INFO: [DB] Classification data stored for claim_id: 685667f61ab411b207cfe312
+[2025-06-21 13:38:14] ERROR: [AI Pipeline] Error in processing claim_id: 685667f61ab411b207cfe312 - ClaimModel is not defined
+[2025-06-21 13:40:07] INFO: [AI Service] Initiating text extraction for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:40:20] INFO: User troll fetched
+[2025-06-21 13:40:20] INFO: User troll fetched
+[2025-06-21 13:40:31] INFO: [DB] Stored extracted text. Claim ID: 685668df85bf11dbfc15a18b, Record ID: 685668f685bf11dbfc15a195
+[2025-06-21 13:40:31] INFO: [AI Service] Summarizing text for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:41:55] INFO: [DB] Summary stored for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:41:55] INFO: [AI Service] Classifying summary text for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:41:56] INFO: [DB] Classification data stored for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:41:56] INFO: [Claim] Updated claim status to 'approved' for claim_id: 685668df85bf11dbfc15a18b
+[2025-06-21 13:42:00] INFO: [AI Service] Initiating text extraction for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 13:42:32] INFO: [DB] Stored extracted text. Claim ID: 6856695085bf11dbfc15a19b, Record ID: 6856697085bf11dbfc15a1a1
+[2025-06-21 13:42:32] INFO: [AI Service] Summarizing text for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 13:42:47] INFO: [AI Service] Initiating text extraction for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:43:38] INFO: [DB] Stored extracted text. Claim ID: 6856697f85bf11dbfc15a1a4, Record ID: 685669b285bf11dbfc15a1aa
+[2025-06-21 13:43:38] INFO: [AI Service] Summarizing text for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:44:40] INFO: [DB] Summary stored for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:44:40] INFO: [AI Service] Classifying summary text for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:44:40] INFO: [DB] Classification data stored for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:44:41] INFO: [Claim] Updated claim status to 'failed' for claim_id: 6856697f85bf11dbfc15a1a4
+[2025-06-21 13:45:29] INFO: [DB] Summary stored for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 13:45:29] INFO: [AI Service] Classifying summary text for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 13:45:30] INFO: [DB] Classification data stored for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 13:45:30] INFO: [Claim] Updated claim status to 'approved' for claim_id: 6856695085bf11dbfc15a19b
+[2025-06-21 15:50:55] INFO: User troll fetched
+[2025-06-21 15:50:55] INFO: User troll fetched
+[2025-06-21 16:02:51] INFO: User troll logged in
+[2025-06-21 16:09:33] ERROR: Error fetching claim by ID 6856697f85bf11dbfc15a1a4d: Cast to ObjectId failed for value "6856697f85bf11dbfc15a1a4d" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:13:33] ERROR: Error fetching claim by ID claim.id: Cast to ObjectId failed for value "claim.id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:14:02] ERROR: Error fetching claim by ID claim.id: Cast to ObjectId failed for value "claim.id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:14:53] ERROR: Error fetching claim by ID :id: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:06] ERROR: Error fetching claim by ID id: Cast to ObjectId failed for value "id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:33] ERROR: Error fetching claim by ID {id}: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:48] ERROR: Error fetching claim by ID {id}: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:29:40] INFO: User troll fetched
+[2025-06-21 16:29:40] INFO: User troll fetched
+[2025-06-21 16:32:50] INFO: User troll fetched
+[2025-06-21 16:32:50] INFO: User troll fetched
+[2025-06-21 16:32:59] INFO: User troll fetched
+[2025-06-21 16:32:59] INFO: User troll fetched

@@ -1,0 +1,15 @@
+[2025-05-27 15:33:43] ERROR: Update User Error: email is not defined
+[2025-05-27 15:34:48] ERROR: Update User Error: email is not defined
+[2025-05-27 15:35:11] ERROR: Update User Error: profileImage is not defined
+[2025-05-27 15:37:02] ERROR: Update User Error: Cannot access 'user' before initialization
+[2025-05-27 15:37:49] ERROR: Update User Error: Cannot access 'user' before initialization
+[2025-06-16 16:10:59] ERROR: Login Error: getaddrinfo EAI_AGAIN ac-hzp74wt-shard-00-02.7opqzze.mongodb.net
+[2025-06-21 11:15:15] ERROR: [AI Pipeline] Error in processing claim_id: 6856468cd56e4ac0994737e3 - Cannot create property 'updatedAt' on string 'Legit'
+[2025-06-21 13:38:14] ERROR: [AI Pipeline] Error in processing claim_id: 685667f61ab411b207cfe312 - ClaimModel is not defined
+[2025-06-21 16:09:33] ERROR: Error fetching claim by ID 6856697f85bf11dbfc15a1a4d: Cast to ObjectId failed for value "6856697f85bf11dbfc15a1a4d" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:13:33] ERROR: Error fetching claim by ID claim.id: Cast to ObjectId failed for value "claim.id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:14:02] ERROR: Error fetching claim by ID claim.id: Cast to ObjectId failed for value "claim.id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:14:53] ERROR: Error fetching claim by ID :id: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:06] ERROR: Error fetching claim by ID id: Cast to ObjectId failed for value "id" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:33] ERROR: Error fetching claim by ID {id}: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Claim"
+[2025-06-21 16:15:48] ERROR: Error fetching claim by ID {id}: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Claim"
