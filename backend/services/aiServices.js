@@ -11,6 +11,13 @@ const url = process.env.AI_SERVICES_URL;
 
 const text_extraction = async (claim_id, filePath) => {
   try {
+    //Change the claim status to progressing
+    await Claim.findByIdAndUpdate(claim_id, {
+      $set: {
+        
+        claimStatus:"processing"
+      },
+    }, { new: true });
     // Validate Inputs
     if (!claim_id || !filePath) {
       logger.error('[Validation] Missing claim_id or file path');
