@@ -61,9 +61,7 @@ MedichainAi/
    - Copy your backend `.env` file to `backend/.env` (see `backend/config/db.js` for required variables).
 
 3. **Build and run all services:**
-   ```bash
-   docker-compose up --build
-   ```
+  
    - Frontend: [http://localhost:5173](http://localhost:5173)
    - Backend API: [http://localhost:5000](http://localhost:5000)
    - AI Engine: [http://localhost:8000](http://localhost:8000)
@@ -141,8 +139,7 @@ This project is licensed under the ISC License.
 
 ## Authors
 
-- Athul Shaji (Backend)
-- [Your Name] (AI/Frontend/Fullstack)
+- Athul Shaji 
 
 ---
 
