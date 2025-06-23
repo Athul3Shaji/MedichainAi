@@ -149,4 +149,10 @@ This project is licensed under the ISC License.
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [MongoDB](https://www.mongodb.com/)
-- [HuggingFace Transformers](https://huggingface.co/transformers/) 
+- [HuggingFace Transformers](https://huggingface.co/transformers/)
+
+![Screenshot from 2025-06-22 19-46-34](https://github.com/user-attachments/assets/e10da023-4e5a-4220-8e2f-5253a755da0e)
+
+![Screenshot from 2025-06-22 19-49-25](https://github.com/user-attachments/assets/3180c7d7-c784-4734-a6a3-6e3b74760869)
+
+
